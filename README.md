@@ -45,6 +45,4 @@ Todos los componentes (IntelliJ, Copilot, JDK, Git, Docker y Zoom) deben estar i
 
 ### Cuestionarios
 
-| Sesión | Enlace |
-|--------|--------|
-| Cuestionario Sesión 1 | [cuestionarios/cuestionario_sesion_1.md](cuestionarios/cuestionario_sesion_1.md) |
+[Sesión 1](cuestionarios/cuestionario_sesion_1.md)
