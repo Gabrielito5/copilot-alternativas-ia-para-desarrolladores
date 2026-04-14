@@ -37,12 +37,11 @@ Todos los componentes (IntelliJ, Copilot, JDK, Git, Docker y Zoom) deben estar i
 
 ## Índice de contenidos
 
-### Sesión 1 — IA en el desarrollo profesional con Spring
-
 1. [El rol de la IA en el desarrollo profesional con Spring](teoria/01.ai_in_development.md)
-2. [Copilot, Claude y alternativas: escogiendo la mejor estrategia multi-herramienta](teoria/02.copilot_claude_y_alternativas.md) 
-3. [Preparación del entorno IDE + IA para máximo rendimiento](teoria/02b.preparacion_entorno_ide_ia_maximo_rendimiento.md)
-
-### Cuestionarios
-
-[Sesión 1](cuestionarios/cuestionario_sesion_1.md)
+2. [Copilot, Claude y alternativas: escogiendo la mejor estrategia multi-herramienta](teoria/02.copilot_claude_y_alternativas.md)
+3. [Preparación del entorno IDE + IA para máximo rendimiento](teoria/03.preparacion_entorno_ide_ia_maximo_rendimiento.md)
+4. [GitHub Copilot en IntelliJ: Completions Pro, no "autocompletar"](teoria/04.completions_pro.md)
+5. [Copilot Chat en el IDE: prompting profesional y flujo conversacional](teoria/05.copilot_chat.md)
+6. [Agent Mode en JetBrains: trabajo semi-autónomo con control del dev](teoria/06.agent_mode.md)
+7. [Modelos IA en Copilot: elección, límites y política de uso](teoria/07.modelos_ia_en_copilot.md)
+8. [MCP (Model Context Protocol): extender Copilot con herramientas y contexto real](teoria/08.mcp.md)
